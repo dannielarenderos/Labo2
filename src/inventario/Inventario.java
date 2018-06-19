@@ -10,7 +10,7 @@ package inventario;
  * @author Danniela Renderos
  */
 public class Inventario {
-
+int hola;
     public static void main(String[] args) {
     }
     
